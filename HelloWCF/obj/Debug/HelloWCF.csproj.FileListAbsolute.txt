@@ -1,0 +1,5 @@
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCF\bin\Debug\HelloWCF.dll
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCF\bin\Debug\HelloWCF.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCF\obj\Debug\HelloWCF.dll
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCF\obj\Debug\HelloWCF.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCF\obj\Debug\HelloWCF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHostWCF\bin\Debug\EmployeeWCF.dll
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHostWCF\bin\Debug\EmployeeWCF.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHostWCF\obj\Debug\EmployeeWCF.dll
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHostWCF\obj\Debug\EmployeeWCF.pdb

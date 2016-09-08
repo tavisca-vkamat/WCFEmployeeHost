@@ -1,0 +1,8 @@
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\bin\Debug\HelloWCFHost.exe.config
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\bin\Debug\HelloWCFHost.exe
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\bin\Debug\HelloWCFHost.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\bin\Debug\HelloWCF.dll
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\bin\Debug\HelloWCF.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\obj\Debug\HelloWCFHost.csprojResolveAssemblyReference.cache
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\obj\Debug\HelloWCFHost.exe
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\HelloWCFHost\obj\Debug\HelloWCFHost.pdb

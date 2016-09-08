@@ -1,0 +1,8 @@
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\bin\Debug\EmployeeHost.exe.config
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\bin\Debug\EmployeeHost.exe
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\bin\Debug\EmployeeHost.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\bin\Debug\EmployeeWCF.dll
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\bin\Debug\EmployeeWCF.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\obj\Debug\EmployeeHost.csprojResolveAssemblyReference.cache
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\obj\Debug\EmployeeHost.exe
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\WCFTraining\EmployeeHost\obj\Debug\EmployeeHost.pdb
